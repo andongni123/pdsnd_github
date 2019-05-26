@@ -5,7 +5,7 @@
 Explore US Bikeshare Data using Python
 
 ### Description
-Project performed in python to import US bikeshare data on three major cities in the US. Queries can be run to answer questions as below:
+Project performed in python to import US bikeshare data from Motivate on three major cities in the US. Queries can be run to answer questions as below:
 
 1) what is the most popular trip
 2) which is the most popular station
