@@ -20,7 +20,7 @@ def get_filters(city, month, day):
     #Get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     t.sleep(1)
     while True:
-        print ("Which city do you want to explore its bikeshare data?\n")
+        print ("Which city bikeshare data would you like to explore?\n")
         city = input("Chicago, NYC or Washington?\n").lower()
         if city not in ("chicago", "nyc", "washington"):
             print("\nInvalid answer\n")
