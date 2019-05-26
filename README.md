@@ -2,7 +2,7 @@
 22/04/19
 
 ### Project Title
-Explore US Bikeshare Data
+Explore US Bikeshare Data using Python
 
 ### Description
 Project performed in python to import US bikeshare data on three major cities in the US. Queries can be run to answer questions as below:
